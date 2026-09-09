@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Dynamic-Gallery-7/',
+  base: '/Dynamic-Gallery-07/',
   build: {
     outDir: 'docs'
   }
